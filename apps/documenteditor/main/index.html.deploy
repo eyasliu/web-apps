@@ -8,6 +8,7 @@
     <meta name="keywords" content="" />
     <link rel="icon" href="resources/img/favicon.ico" type="image/x-icon" />
     <link rel="stylesheet" type="text/css" href="../../../apps/documenteditor/main/resources/css/app.css">
+    <link rel="stylesheet" type="text/css" href="../../../apps/themes/common.css">
 
     <!-- splash -->        
 
